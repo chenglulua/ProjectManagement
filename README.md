@@ -1,5 +1,4 @@
-# ProjectManagement
-项目管理实训小组
+# 项目管理实训小组
 
 组名：人形N95
 
